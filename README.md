@@ -1,7 +1,7 @@
 # Rebar-Numbering
 Script for manulally controlling the rebar numbering in Revit, rather than using the random numbering system and losing previous numbers.
 
-Based on Einar Raknes work found in the link below, I jsut took the ordering out of it so you could use whatever numbers you wanted.
+Based on Einar Raknes work found in the link below, I just took the ordering out of it so you could use whatever numbers you wanted.
 https://forum.dynamobim.com/t/renumber-rebar-numbers-with-dynamo/6360
 
 ---
